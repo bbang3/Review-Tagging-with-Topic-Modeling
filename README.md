@@ -1,3 +1,7 @@
+# Review Tagging with Topic Modeling
+### 2023-2 COSE362 기계학습 Term Project
+with [mung3477](https://github.com/mung3477), [JinSY515](https://github.com/JinSY515), [dhdbsrlw](https://github.com/dhdbsrlw)
+
 # Problem Identification
 ![예시](assets/naver_review.jpeg)
 
